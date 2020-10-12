@@ -20,3 +20,16 @@ From time to time, as well as at the end, an inventory check operation shall be 
 
 ## Task 2
 
+### Goal of this laboratory task
+
+Create two threads, a producer and a consumer, with the producer feeding the consumer.
+
+
+### Requirement
+
+Compute the scalar product of two vectors.
+
+### Details for implementation
+
+Create two threads. The first thread (producer) will compute the products of pairs of elements - one from each vector - and will feed the second thread. The second thread (consumer) will sum up the products computed by the first one. The two threads will behind synchronized with a condition variable and a mutex. The consumer will be cleared to use each product as soon as it is computed by the producer thread.
+
