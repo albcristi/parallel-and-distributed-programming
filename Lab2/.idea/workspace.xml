@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce02b4e4-4fc6-463a-a05e-0ea7814a9786" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1im6WWRYbZ3gcA3SeMfwac3WNaO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Lab2.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce02b4e4-4fc6-463a-a05e-0ea7814a9786" name="Default Changelist" comment="" />
+      <created>1602500451986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602500451986</updated>
+      <workItem from="1602500455806" duration="20000" />
+      <workItem from="1602504332268" duration="4613000" />
+      <workItem from="1602587403934" duration="45000" />
+      <workItem from="1602663728824" duration="2437000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="72" key="#Project_Structure" timestamp="1602504354853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1602504354853" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1602587424751">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602587424751" />
+    <state width="1493" height="339" key="GridCell.Tab.0.bottom" timestamp="1602667060935">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="339" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602667060935" />
+    <state width="1493" height="339" key="GridCell.Tab.0.center" timestamp="1602667060935">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="339" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602667060935" />
+    <state width="1493" height="339" key="GridCell.Tab.0.left" timestamp="1602667060934">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="339" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602667060934" />
+    <state width="1493" height="339" key="GridCell.Tab.0.right" timestamp="1602667060935">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="339" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602667060935" />
+    <state x="209" y="25" key="new project wizard" timestamp="1602587443287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="25" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1602587443287" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602508896205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602508896205" />
+  </component>
+</project>
