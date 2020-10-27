@@ -1,0 +1,20 @@
+inti a;
+inti b;
+say("Give First Number ");
+giveInti(a);
+say("Give Second Number");
+giveInti(b);
+inti auxi;
+hmm( a > b){
+auxi = a;
+a = b;
+b = auxi;
+}
+inti val, gcd;
+repeatAfterMe( val=1; val<=b;-1){
+hmm(a%val==0 and b%val == 0){
+gcd = val;
+}
+}
+say("GCDis");
+sayInti(gcd);

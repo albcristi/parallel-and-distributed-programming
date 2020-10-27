@@ -1,0 +1,17 @@
+inti 12a, b, c, result;
+say("Give me a number");
+giveInti( & );
+say("Give me a number");
+giveInti(b);
+say("Give me a number");
+giveInti(c);
+hmm( 12a > b){ result = 12a;
+}
+nah{
+result = b;
+}
+hmm(result<c) {
+result = c;
+}
+say("Result is ");
+sayInti(result);

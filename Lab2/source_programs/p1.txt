@@ -1,0 +1,18 @@
+inti c,a,b, result;
+say("Give Me TheSecondNumber");
+giveInti(a);
+say("GiveMeTheSecondNumber");
+giveInti(a);
+say("GiveMeTheSecondNumber");
+giveInti(c);
+hmm( a > b){
+result = a;
+}
+nah{
+result = b;
+}
+hmm(result<c){
+result = c;
+}
+say("ResultIs");
+sayInti(result);

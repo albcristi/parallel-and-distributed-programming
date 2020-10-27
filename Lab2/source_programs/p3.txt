@@ -1,0 +1,14 @@
+inti sum, n, ind, no;
+say("Enter number n");
+getInti(n);
+hmm(n < 1){
+adiosBoys;
+}
+sum = 0;
+repeatAfterMe(ind = 0; ind < n; 1){
+say("Give number");
+getInti(no);
+sum = sum + no;
+}
+say("Sum is");
+sayInti(sum);
