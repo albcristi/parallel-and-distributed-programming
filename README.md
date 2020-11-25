@@ -56,3 +56,32 @@ For running the tasks, also implement 2 approaches:
 
 1. Create an actual thread for each task (use the low-level thread mechanism from the programming language);
 2. Use a thread pool.
+
+
+## Task 4
+
+### Goal of this laboratory task
+
+The goal of this lab is to use C# TPL futures and continuations in a more complex scenario, in conjunction with waiting for external events.
+
+### Requirement 
+
+Write a program that is capable of simultaneously downloading several files through HTTP. Use directly the BeginConnect()/EndConnect(), BeginSend()/EndSend() and BeginReceive()/EndReceive() Socket functions, and write a simple parser for the HTTP protocol (it should be able only to get the header lines and to understand the Content-lenght: header line).
+
+Implement 3 variants:
+   1. Directly implement the parser on the callbacks (event-driven);
+   2. Wrap the connect/send/receive operations in tasks, with the callback setting the result of the task;
+   3. Like the previous, but also use the async/await mechanism.
+   
+## Task 5
+
+### Goal of this laboratory task
+
+The goal of this lab is to implement a simple but non-trivial parallel algorithm.
+
+### Requirement
+
+Perform the multiplication of 2 polynomials. Use both the regular O(n2) algorithm and the Karatsuba algorithm, and each in both the sequencial form and a parallelized form. Compare the 4 variants.
+
+   
+   
