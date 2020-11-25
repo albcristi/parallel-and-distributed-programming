@@ -1,0 +1,7 @@
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\Lab4\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\Lab4\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\Lab4\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\Lab4\Lab4\Lab4\obj\Debug\Lab4.pdb
