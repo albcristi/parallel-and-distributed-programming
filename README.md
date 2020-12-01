@@ -83,5 +83,13 @@ The goal of this lab is to implement a simple but non-trivial parallel algorithm
 
 Perform the multiplication of 2 polynomials. Use both the regular O(n2) algorithm and the Karatsuba algorithm, and each in both the sequencial form and a parallelized form. Compare the 4 variants.
 
-   
-   
+## Task 6
+
+### Goal of this laboratory task
+
+The goal of this lab is to implement a simple but non-trivial parallel algorithm.
+
+### Requirement
+
+Given a directed graph, find a Hamiltonean cycle, if one exists. Use multiple threads to parallelize the search.
+
