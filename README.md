@@ -93,3 +93,12 @@ The goal of this lab is to implement a simple but non-trivial parallel algorithm
 
 Given a directed graph, find a Hamiltonean cycle, if one exists. Use multiple threads to parallelize the search.
 
+## Task 7
+
+### Goal of this laboratory task
+
+The goal of this lab is to implement a distributed algorithm using MPI.
+
+### Requirement
+
+Perform the multiplication of 2 polynomials, by distributing computation across several nodes using MPI. Use both the regular O(n2) algorithm and the Karatsuba algorithm.
