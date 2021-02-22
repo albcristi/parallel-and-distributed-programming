@@ -1,0 +1,15 @@
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex9\bin\Debug\netcoreapp3.1\ex9.exe
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex9\obj\Debug\netcoreapp3.1\ex9.csprojAssemblyReference.cache
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex9\obj\Debug\netcoreapp3.1\ex9.AssemblyInfoInputs.cache
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex9\obj\Debug\netcoreapp3.1\ex9.AssemblyInfo.cs
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex9\bin\Debug\netcoreapp3.1\ex9.deps.json
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex9\bin\Debug\netcoreapp3.1\ex9.runtimeconfig.json
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex9\bin\Debug\netcoreapp3.1\ex9.runtimeconfig.dev.json
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex9\bin\Debug\netcoreapp3.1\ex9.dll
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex9\bin\Debug\netcoreapp3.1\ex9.pdb
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex9\bin\Debug\netcoreapp3.1\MPI.dll
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex9\obj\Debug\netcoreapp3.1\ex9.csproj.CoreCompileInputs.cache
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex9\obj\Debug\netcoreapp3.1\ex9.csproj.CopyComplete
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex9\obj\Debug\netcoreapp3.1\ex9.dll
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex9\obj\Debug\netcoreapp3.1\ex9.pdb
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex9\obj\Debug\netcoreapp3.1\ex9.genruntimeconfig.cache

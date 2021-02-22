@@ -225,7 +225,7 @@ vector<int> karatsubaMaster(vector<int>& p, vector<int>& q, int currentDepth, in
     }
     vector<int> prod1, prod2, prod12;
     int id1, id2, id3;
-    if (logInBase3(noProcesses) == (double) currentDepth + 1) {
+    if ((int)logInBase3(noProcesses) == currentDepth + 1) {
         // we need to send data to processes
         // send data for karatsuba(p1,q1)
         int size1, size2, size21, size22, size31, size32;
@@ -259,14 +259,14 @@ vector<int> karatsubaMaster(vector<int>& p, vector<int>& q, int currentDepth, in
         // TIME TO GET DATA BACK
         MPI_Status status1, status2, status3;
         int size = p1.size() + q1.size() - 1;
-        preparePolynomial(prod1, size);
-        MPI_Recv(prod1.data(), size, MPI_INT, id1, id1 * 10 + 5, MPI_COMM_WORLD, &status1);
+        preparePolynomial(prod1, size+1);
+        MPI_Recv(prod1.data(), size+1, MPI_INT, id1, id1 * 10 + 5, MPI_COMM_WORLD, &status1);
         size = p2.size() + q2.size() - 1;
-        preparePolynomial(prod2, size);
-        MPI_Recv(prod2.data(), size, MPI_INT, id2, id2 * 10 + 5, MPI_COMM_WORLD, &status2);
+        preparePolynomial(prod2, size+1);
+        MPI_Recv(prod2.data(), size+1, MPI_INT, id2, id2 * 10 + 5, MPI_COMM_WORLD, &status2);
         size = p1PLUSp2.size() + q1PLUSq2.size() - 1;
-        preparePolynomial(prod12, size);
-        MPI_Recv(prod12.data(), size, MPI_INT, id3, id3 * 10 + 5, MPI_COMM_WORLD, &status3);
+        preparePolynomial(prod12, size+1);
+        MPI_Recv(prod12.data(), size+1, MPI_INT, id3, id3 * 10 + 5, MPI_COMM_WORLD, &status3);
     }
     else {
         prod1 = karatsubaMaster(p1, q1, currentDepth + 1, noProcesses);
@@ -300,7 +300,7 @@ int main(int argc, char** argv)
         fprintf(stderr, "data not found\n");
         return 1;
     }
-
+    
 
     if (me == 0) {
         // master process
@@ -313,7 +313,7 @@ int main(int argc, char** argv)
         vector<int> polynomialSimpleResult = karatsubaMaster(p, q, 0, noProcesses);
         polynomialSimpleResult.pop_back();
         std::cout << "Result:" << endl;
-        std::cout << "N=" << toString(polynomialSimpleResult) << std::endl;
+        std::cout << "R=" << toString(polynomialSimpleResult) << std::endl;
     }
     else {
         // worker process
@@ -321,4 +321,5 @@ int main(int argc, char** argv)
        karatsubaWorker(me);
     }
     MPI_Finalize();
+    return 0;
 }

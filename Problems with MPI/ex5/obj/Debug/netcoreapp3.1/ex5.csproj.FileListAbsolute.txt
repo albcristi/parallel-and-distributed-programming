@@ -1,0 +1,15 @@
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex5\bin\Debug\netcoreapp3.1\ex5.exe
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex5\obj\Debug\netcoreapp3.1\ex5.AssemblyInfoInputs.cache
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex5\obj\Debug\netcoreapp3.1\ex5.AssemblyInfo.cs
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex5\bin\Debug\netcoreapp3.1\ex5.deps.json
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex5\bin\Debug\netcoreapp3.1\ex5.runtimeconfig.json
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex5\bin\Debug\netcoreapp3.1\ex5.runtimeconfig.dev.json
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex5\bin\Debug\netcoreapp3.1\ex5.dll
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex5\bin\Debug\netcoreapp3.1\ex5.pdb
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex5\bin\Debug\netcoreapp3.1\MPI.dll
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex5\obj\Debug\netcoreapp3.1\ex5.csprojAssemblyReference.cache
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex5\obj\Debug\netcoreapp3.1\ex5.csproj.CoreCompileInputs.cache
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex5\obj\Debug\netcoreapp3.1\ex5.csproj.CopyComplete
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex5\obj\Debug\netcoreapp3.1\ex5.dll
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex5\obj\Debug\netcoreapp3.1\ex5.pdb
+D:\Computer Science -5h Semester (sem 1,  year 3)\Parallel and Distributed Programming\preparation\ex5\obj\Debug\netcoreapp3.1\ex5.genruntimeconfig.cache
